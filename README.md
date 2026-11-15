@@ -1,10 +1,10 @@
 Thực hành Git \& GitHub
 
-\- Họ tên: (điền họ tên của bạn)
+\- Họ tên: Nguyễn Vũ Dũng
 
 \- MSSV: 1822040371
 
-\- Lớp: (điền lớp)
+\- Lớp: 22DTH2
 
-\- Môn học: (điền môn học)
+\- Môn học: Phát triển ứng dụng web
 
